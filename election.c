@@ -8,7 +8,10 @@
 
 */
 
+
 //nothing else matters... never care for what
+//what the hell
+//nothing else matters
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
