@@ -7,7 +7,7 @@
     Election application entry point
 
 */
-
+//what the hell
 //nothing
 #include <stdio.h>
 #include <stdlib.h>
